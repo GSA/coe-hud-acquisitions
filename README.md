@@ -17,7 +17,7 @@ These links lead to the repositories for each individual procurement. They are l
 
 **Washington, D.C. -** The U.S. General Services Administration’s (GSA) Technology Transformation Services’ Centers of Excellence (CoE) and the U.S. Department of Housing and Urban Development (HUD) today issued six Requests for Information (RFI) and their accompanying draft Request for Quotes (RFQ) to gather feedback related to the HUD Phase II work. With these RFIs, the CoE is looking to validate and improve the approach we’re taking with each procurement, allowing us to successfully move into the implementation phase at HUD. We are also building upon the recommendations and suggestions gathered through the Phase I discovery and assessment efforts.
 
-During Phase I, four of the centers at HUD identified six distinct, but interrelated, needs covering specific efforts required to achieve the objectives of the Cloud Adoption, Contact Center, Customer Experience, and Data Analytics Centers:
+During Phase I, HUD identified six distinct, but interrelated, needs covering specific efforts required to achieve the objectives of the Cloud Adoption, Contact Center, Customer Experience, and Data Analytics Centers:
 
 * The Cloud Adoption team: accelerate the migration of paper-based forms to web-based forms and manage all the legacy data and new data that will go with those forms 
 * The Contact Center team: centralize HUD’s knowledge base and customer inquiries into one contact center called HUDCentral
