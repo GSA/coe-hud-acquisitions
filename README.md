@@ -7,7 +7,7 @@ These links lead to the repositories for each individual procurement. They are l
 * Cloud Adoption: [Forms-as-a-Service, Electronic Records Management, and Intelligent Data Extraction](https://github.com/GSA/coe-hud-acq-faas-erm-ide)
 * Contact Center: [HUDCentral Contact Center](https://github.com/GSA/coe-hud-acq-hudcentral)
 * Customer Experience: [Build an Agency-Wide Customer Experience Capability](https://github.com/GSA/coe-hud-acq-agency-wide-cx)
-* Data Analytics: [Build an OCDO and Data Governance](https://github.com/GSA/coe-hud-acq-ocdo)
+* Data Analytics: [Establish an OCDO and Data Governance](https://github.com/GSA/coe-hud-acq-ocdo)
 * Data Analytics: [Data Visualization for OCDO](https://github.com/GSA/coe-hud-acq-data-visualization)
 * Data Analytics: [Advanced Analytics for OCDO](https://github.com/GSA/coe-hud-acq-advanced-analytics)
 
