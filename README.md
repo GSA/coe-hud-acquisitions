@@ -46,4 +46,4 @@ HUD's mission is to create strong, sustainable, inclusive communities and qualit
 
 ## Questions?
 
-Please provide any and all feedback through the Google Forms linked to in the links above. We cannot commit to considering anything sent to us via any other medium. Thanks for understanding!
+We have put together a few of the most [Frequently Asked Questions](FAQ.md) that arose during previous market research efforts. Please provide any and all feedback, whether related to those questions or otherwise, through the Google Forms linked to in the links above. We cannot commit to considering anything sent to us via any other medium. Thanks for understanding!
