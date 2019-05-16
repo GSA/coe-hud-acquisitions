@@ -42,7 +42,7 @@ The mission of the U.S. General Services Administration is to deliver value and 
 
 **About HUD**
 
-HUD's mission is to create strong, sustainable, inclusive communities and quality affordable homes for all. More information about HUD and its programs is available on the Internet atß [https://www.hud.gov](https://www.hud.gov) and [https://espanol.hud.gov](https://espanol.hud.gov).
+HUD's mission is to create strong, sustainable, inclusive communities and quality affordable homes for all. More information about HUD and its programs is available on the Internet at [https://www.hud.gov](https://www.hud.gov) and [https://espanol.hud.gov](https://espanol.hud.gov).
 
 ## Questions?
 
