@@ -13,36 +13,20 @@ These links lead to the repositories for each individual procurement. They are l
 
 ## GSA and HUD Issue RFIs for Centers of Excellence Phase II Work
 
-*May 17, 2019*
+The mission of the Centers of Excellence (CoE), housed within the General Services Administration (GSA), is to accelerate Information Technology (IT) modernization, improve the public experience, and reduce legacy IT spending across the Government. CoE accomplishes this by centralizing top government tech talent, leveraging private-sector best practices, and operating with a teaming mindset across Government departments and agencies. To better align with the dynamic effects of such a transformation, CoE provides agency partners with a shared service solution for professional services.
 
-**Washington, D.C. -** The U.S. General Services Administration’s (GSA) Technology Transformation Services’ Centers of Excellence (CoE) and the U.S. Department of Housing and Urban Development (HUD) today issued six Requests for Information (RFI) and their accompanying draft Request for Quotation (RFQ) to gather feedback related to the HUD Phase II work. With these RFIs, GSA is looking to validate and improve the approach it is taking with each procurement, allowing the CoE to successfully move into the implementation phase at HUD. The CoE team is also building upon the recommendations and suggestions gathered through the Phase I discovery and assessment efforts.
+Currently, CoE is completing Phase I, the discovery and assessment work, being performed at the U.S. Department of Housing and Urban Development (HUD). These efforts have resulted in six different but interrelated needs for four of our Centers. Those four Centers are Cloud Adoption, Contact Center, Customer Experience, and Data Analytics Centers. The six needs are:
 
-During Phase I, four of the centers at HUD identified six distinct, but interrelated, needs covering specific efforts required to achieve the objectives of the Cloud Adoption, Contact Center, Customer Experience, and Data Analytics Centers:
+* Cloud Adoption - Forms-as-a-Service, Electronic Records Management, and Intelligent Data Extraction
+* Contact Center - HUDCentral Contact Center
+* Customer Experience - Build an Agency-Wide Customer Experience capability
+* Data Analytics - Establish the OCDO and Data Governance
+* Data Analytics - Advanced Analytics for OCDO
+* Data Analytics - Data Visualization for OCDO
 
-* The Cloud Adoption team - accelerate the migration of paper-based forms to web-based forms and manage all the legacy data and new data that will go with those forms;
-* The Contact Center team - centralize HUD’s knowledge base and customer inquiries into one contact center called HUDCentral;
-* The Customer Experience team - build an agency-wide customer experience capability;
-* The Data Analytics team - set up an Office of the Chief Data Officer, which will manage data as a strategic asset across HUD;
-* The Data Analytics team - use data visualization techniques to create dashboards that provide HUD stakeholders with key data points and increase financial transparency; and 
-* The Data Analytics team - utilize advanced analytics techniques to ensure data-driven decision making is established throughout HUD.
+For each need, the CoE has issued an RFI and a draft RFQ, all of which can be found on our GitHub repository at https://github.com/GSA/coe-hud-acquisitions. The RFIs will be open for comment until noon EDT on Friday, May 31, 2019. 
 
-Each team will ensure their individual efforts are aligned with the ultimate, mutual goal of instituting the IT modernization efforts of the agency itself.
-
-“As we demonstrated with the RFI for the Discovery BPA, we want to ensure we incorporate private sector best practices in IT along with standard industry practices in procuring technology,” said GSA CoE Executive Director Bob De Luca. “We want to help our agency partners make modernization the norm at their agencies so they can continue to keep up with advances in technology.”
-
-“We are excited to begin this next phase of our modernization efforts,” said HUD Chief Operating Officer Ralph Gaines. “We’re looking forward to seeing how these efforts will further transform the agency and make it more accountable to our customers.”
-
-The six RFIs, and their associated draft RFQs, can be found on our GitHub repository at [https://github.com/GSA/coe-hud-acquisitions](https://github.com/GSA/coe-hud-acquisitions), which also includes links to each individual RFI. These will be open for comment until noon EDT on Friday, May 31, 2019. 
-
-Please note these are draft RFQs and no award will be issued as a result of this market research-related function. Feedback must be submitted through the Google Forms associated with the RFIs themselves, other forms of feedback submitted through email or other forms of communication will not be accepted.
-
-**About GSA**
-
-The mission of the U.S. General Services Administration is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across the government. As the newest addition to the Technology Transformation Services, the CoE accelerates IT modernization by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation.
-
-**About HUD**
-
-HUD's mission is to create strong, sustainable, inclusive communities and quality affordable homes for all. More information about HUD and its programs is available on the Internet at [https://www.hud.gov](https://www.hud.gov) and [https://espanol.hud.gov](https://espanol.hud.gov).
+Please note these are draft RFQs and no award will be issued as a result of this market research-related function. Feedback must be submitted through the Google Forms associated with the RFIs themselves, other forms of feedback submitted through email or other forms of communication will not be accepted. 
 
 ## Questions?
 
