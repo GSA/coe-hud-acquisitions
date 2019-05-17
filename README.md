@@ -5,7 +5,7 @@
 These links lead to the repositories for each individual procurement. They are listed in the same order as they are listed in the press release, below.
 
 * Cloud Adoption: [Forms-as-a-Service, Electronic Records Management, and Intelligent Data Extraction](https://github.com/GSA/coe-hud-acq-faas-erm-ide)
-* Contact Center: [HUDCentral Contact Center](https://github.com/GSA/coe-hud-acq-hudcentral) (potentially coming soon)
+* Contact Center: HUDCentral Contact Center (potentially coming soon)
 * Customer Experience: [Build an Agency-Wide Customer Experience Capability](https://github.com/GSA/coe-hud-acq-agency-wide-cx)
 * Data Analytics: [Establish an OCDO and Data Governance](https://github.com/GSA/coe-hud-acq-ocdo)
 * Data Analytics: [Data Visualization for OCDO](https://github.com/GSA/coe-hud-acq-data-visualization)
