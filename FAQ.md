@@ -13,12 +13,6 @@ No, that IDIQ is intended to potentially supplement these buys should any gaps a
 While we intend for the Discovery BPA to be available to each and every Agency Partner, the focus of the Discovery BPA is to obtain services during discovery/assessment stage, which we have been calling “Phase I.” The BPA is not intended to be used for our implementation stage, which we have been calling “Phase II” at USDA, HUD, and in our communications. While we haven’t yet settled on what strategy we intend to utilize, there is a very strong chance these will be issued against existing vehicles, like IT Schedule 70, rather than a new BPA or similar approach.
 
 ## Question
-*Will the CoE use the IDIQ in the previous RFI put out by NCR for these procurements?*
-
-### Answer
-No, that IDIQ is intended to provide services that are out of the scope of the work being performed by the CoE teams. However, the teams may interact.
-
-## Question
 *What is the anticipated period of performance for each of the 6 buys?*
 
 ### Answer
