@@ -42,3 +42,9 @@ Will these be the only procurements for HUD Phase II?
 
 ### Answer
 While we don’t anticipate any changes to the existing set of procurements, no final decisions have been made.
+
+## Question
+Can I edit my answers once submitted?
+
+### Answer
+No, in order to ensure consistency during our review of the RFI responses, we do not allow for changes to submissions, so please provide ample time to respond. We recommend doing a dry-run "(ie, put in something in each answer but *do not* hit submit at the end.
