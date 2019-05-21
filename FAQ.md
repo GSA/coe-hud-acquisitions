@@ -48,3 +48,10 @@ Can I edit my answers once submitted?
 
 ### Answer
 No, in order to ensure consistency during our review of the RFI responses, we do not allow for changes to submissions, so please provide ample time to respond. We recommend doing a dry-run (ie, put in something in each answer but *do not* hit submit at the end), allowing you time to prepare your responses, as there is no ability to save your entry while you're working on it.
+
+## Question
+Do I have to submit a response to one or more RFIs if we want to participate in a future procurement?
+
+### Answer
+First, it is important to note we are currently performing market research and there is no guarantee a procurement will follow. However, if there is a follow up procurement borne out of this RFI, participation in the RFI will not be a requirement for submitting a response.
+
