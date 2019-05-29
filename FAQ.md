@@ -55,3 +55,10 @@ Do I have to submit a response to one or more RFIs if we want to participate in 
 ### Answer
 First, it is important to note we are currently performing market research and there is no guarantee a procurement will follow. However, if there is a follow up procurement borne out of this RFI, participation in the RFI will not be a requirement for submitting a response.
 
+## Question
+Can you share any prototypes related to the Cloud Adoption draft RFQ?
+
+### Answer
+We are happy to provide an additional artifact that would include brief description of how we created the prototypes and the technologies/tools we employed along with the posting of an actual RFQ (should we get that far). While it won't be feasible to provide the actual prototypes, we can discuss our methodology to provide a good sense of our approach. The inputs, such as basic requirements, sample data, static forms, etc., can be provided along with the descriptions.
+
+There are two reasons we didn't share them with this RFI: First, some of these prototypes were created voluntarily (ie, unsolicited) by companies to demonstrate their capabilities or they involved the use of free trials that are now expired. Second, we aren't "sold" on any of the approaches just yet and want to make sure we don't limit solutions being submitted by contractors. In other words, we don't want our industry partners to think the Government is looking for something similar to those prototypes -- we want to review any and all approaches!
