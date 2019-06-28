@@ -1,3 +1,6 @@
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > CoE and HUD
+
+
 # CoE and HUD - Acquisitions
 
 ## Individual RFIs
