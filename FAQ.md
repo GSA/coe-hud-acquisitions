@@ -12,12 +12,16 @@ While we intend for the Discovery BPA to be available to each and every Agency P
 ### Answer
 Each buy will have its own period of performance. These range from a base year with two option periods of six months each to a base year with four option periods of one year each. It will all depend on the specific needs the procurement is designed to address. Specifically, the POPs are as follows:
 
-* Cloud Adoption - FaaS, ERM, and IDE: Base period of 1 year, 2 option periods of 1 year each.
-* Contact Center - HUDCentral Contact Center: Base period of 1 year, 4 option periods of 1 year each.
-* Customer Experience - Build an Agency-Wide Customer Experience Capability: Base period of 1 year, 2 option periods of 1 year each.
-* Data Analytics - OCDO and Data Governance: Base period of 1 year, 2 option periods of 1 year each.
-* Data Analytics - Advanced Analytics for OCDO: Base period of 1 year, 2 option periods of 6 months each.
-* Data Analytics - Data Visualization for OCDO: Base period of 1 year, 2 option periods of 6 months each.
+* Cloud Adoption - FaaS, ERM, and IDE: Twelve (12) month base period and two (2) twelve (12) month options
+* Contact Center - HUDCentral Contact Center: Twelve (12) month base period and four (4) twelve (12)
+month options
+* Customer Experience - Build an Agency-Wide Customer Experience Capability: Twelve (12) month base period and two (2) twelve
+(12) month options
+* Data Analytics - OCDO and Data Governance: Six (6) month base period, two (2) twelve
+(12) month options
+* Data Analytics - Advanced Analytics for OCDO: Twelve (12) month base period, two (2) six (6)
+month options
+* Data Analytics - Data Visualization for OCDO: Twelve (12) month base period, two (2) six (6) month options
 
 ## Question
 *How are these buys interrelated?*
