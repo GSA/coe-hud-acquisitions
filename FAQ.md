@@ -32,33 +32,25 @@ Each buy will have its own period of performance. These range from a base year w
 In section 1.4 of each solicitation, we outline how these buys are directly related with one another. However, the Government is always seeking ways in which we can break down silos, so any suggestions related to ensuring cooperation and collaboration among the CoEs is appreciated!
 
 ## Question
-What is the estimated value of each order?
-
-### Answer
-There is no estimated value, as it will completely depend on the requirements of each CoE, but we would greatly appreciate some insight into projected costs based on the outlined Level of Effort.
-
-## Question
 Will these be the only procurements for HUD Phase II?
 
 ### Answer
-While we don’t anticipate any changes to the existing set of procurements, no final decisions have been made.
+While we don’t anticipate any changes to the existing set of procurements, the Government reserves the right to change this position at any time.
 
 ## Question
 Can I edit my answers once submitted?
 
 ### Answer
-No, in order to ensure consistency during our review of the RFI responses, we do not allow for changes to submissions, so please provide ample time to respond. We recommend doing a dry-run (ie, put in something in each answer but *do not* hit submit at the end), allowing you time to prepare your responses, as there is no ability to save your entry while you're working on it.
+No, in order to ensure consistency during our review of the RFQ responses, we do not allow for changes to submissions, so please provide ample time to respond. We recommend doing a dry-run (ie, put in something in each answer but *do not* hit submit at the end), allowing you time to prepare your responses, as there is no ability to save your entry while you're working on it.
 
 ## Question
-Do I have to submit a response to one or more RFIs if we want to participate in a future procurement?
+Do I have to submit a response to one or more RFQs if we want to participate in a future procurement?
 
 ### Answer
-First, it is important to note we are currently performing market research and there is no guarantee a procurement will follow. However, if there is a follow up procurement borne out of this RFI, participation in the RFI will not be a requirement for submitting a response.
+No, there is no such restrcition at all.
 
 ## Question
-Can you share any prototypes related to the Cloud Adoption draft RFQ?
+Can you share any prototypes?
 
 ### Answer
-We are happy to provide an additional artifact that would include brief description of how we created the prototypes and the technologies/tools we employed along with the posting of an actual RFQ (should we get that far). While it won't be feasible to provide the actual prototypes, we can discuss our methodology to provide a good sense of our approach. The inputs, such as basic requirements, sample data, static forms, etc., can be provided along with the descriptions.
-
-There are two reasons we didn't share them with this RFI: First, some of these prototypes were created voluntarily (ie, unsolicited) by companies to demonstrate their capabilities or they involved the use of free trials that are now expired. Second, we aren't "sold" on any of the approaches just yet and want to make sure we don't limit solutions being submitted by contractors. In other words, we don't want our industry partners to think the Government is looking for something similar to those prototypes -- we want to review any and all approaches!
+Every artifact we believe to be relevant and that we can share will be included in the relevant RFQs repository.
