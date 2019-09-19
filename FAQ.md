@@ -1,12 +1,6 @@
 # Frequently asked questions
 
 ## Question
-*Will the CoE use the IDIQ in the previous RFI put out by NCR for these procurements?*
-
-### Answer
-No, that IDIQ is intended to potentially supplement these buys should any gaps arise in the Phase II services that are out of the scope of the awarded contracts.
-
-## Question
 *Will the CoE use the Discovery BPA for these procurements?*
 
 ### Answer
