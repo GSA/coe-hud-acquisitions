@@ -1,4 +1,4 @@
-[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > CoE and HUD
+##### [CoE Acquisitions](https://github.com/GSA/coe-acquisitions)
 
 <h1><img src="https://coe.gsa.gov/img/coe-logomark.svg" width="40px" align="top" alt="The Centers of Excellence Logo"> Centers of Excellence / CoE and HUD Acquisitions</h1>
 
