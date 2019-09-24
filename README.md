@@ -12,6 +12,7 @@
 
 These links lead to the repositories for each individual procurement that currently has an active RFQ.
 
+* Cloud Adoption: [Forms-as-a-Service, Electronic Records Management, and Intelligent Data Extraction](https://github.com/GSA/coe-hud-acq-faas-erm-ide)
 * Customer Experience: [Build an Agency-Wide Customer Experience Capability](https://github.com/GSA/coe-hud-acq-agency-wide-cx)
 * Data Analytics: [Establish an OCDO and Data Governance](https://github.com/GSA/coe-hud-acq-ocdo)
 
@@ -19,7 +20,6 @@ These links lead to the repositories for each individual procurement that curren
 
 These links lead to the repositories for each individual procurement that previously had an RFI but have not had any new activity as of yet. Once a related procurement has been released, it will be moved into the section above.
 
-* Cloud Adoption: [Forms-as-a-Service, Electronic Records Management, and Intelligent Data Extraction](https://github.com/GSA/coe-hud-acq-faas-erm-ide)
 * Contact Center: [HUDCentral Contact Center](https://github.com/GSA/coe-hud-acq-hudcentral)
 * Data Analytics: [Data Visualization for OCDO](https://github.com/GSA/coe-hud-acq-data-visualization)
 * Data Analytics: [Advanced Analytics for OCDO](https://github.com/GSA/coe-hud-acq-advanced-analytics)
