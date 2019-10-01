@@ -16,13 +16,13 @@ These links lead to the repositories for each individual procurement that curren
 * Customer Experience: [Build an Agency-Wide Customer Experience Capability](https://github.com/GSA/coe-hud-acq-agency-wide-cx)
 * Data Analytics: [Establish an OCDO and Data Governance](https://github.com/GSA/coe-hud-acq-ocdo)
 * Data Analytics: [Data Visualization for OCDO](https://github.com/GSA/coe-hud-acq-data-visualization)
+* Data Analytics: [Advanced Analytics for OCDO](https://github.com/GSA/coe-hud-acq-advanced-analytics)
 
 ## Additional repositories
 
 These links lead to the repositories for each individual procurement that previously had an RFI but have not had any new activity as of yet. Once a related procurement has been released, it will be moved into the section above.
 
 * Contact Center: [HUDCentral Contact Center](https://github.com/GSA/coe-hud-acq-hudcentral)
-* Data Analytics: [Advanced Analytics for OCDO](https://github.com/GSA/coe-hud-acq-advanced-analytics)
 
 
 ### GSA and HUD Release RFQs for Phase II
